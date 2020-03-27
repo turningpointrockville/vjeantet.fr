@@ -42,11 +42,11 @@ author = "Tim Hunter"
 authorlocation = "Rockville,Maryland"
 authorwebsite = "http://vjeantet.fr"
 authorbio = "Pastor of Turning Point Church of Rockville."
-cover = "images/cover_polenord.jpg"
+cover = "images/interior.jpg"
 description = ""
 googleAnalyticsUserID = "UA-79101-12"
 hideHUGOSupport = false
-logo = "images/logo.png"
+logo = "images/Logo.png"
 twitterName = ""
 customFooterPartial = "netlify.html"
 
