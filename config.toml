@@ -46,7 +46,7 @@ cover = "images/interior.jpg"
 description = ""
 googleAnalyticsUserID = "UA-79101-12"
 hideHUGOSupport = false
-logo = "images/Logo.png"
+logo = "images/logo.png"
 twitterName = ""
 customFooterPartial = "netlify.html"
 
