@@ -12,6 +12,13 @@ name = "Blog"
 url = "/"
 weight = -120
 
+[[main.menu]]
+identifier = "events"
+name = "Events"
+url="/"
+weight = 100
+
+
 
 [params]
 author = "Tim Hunter"
